@@ -53,8 +53,10 @@ only_product_images/ # 상품 이미지 폴더
 
 ### 1) 환경 준비
 Python 3.9+ 환경에서 필요한 패키지를 설치하세요.
+
 ```bash
 pip install pandas numpy faiss-cpu torch transformers pillow matplotlib
+
 2) 데이터 준비
 같은 폴더 안에 아래 파일/폴더가 있어야 합니다:
 
